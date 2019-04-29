@@ -1,0 +1,9 @@
+D:\Documents\University\Anglia Ruskin\Graphics Programming\GraphicsProgramming\GraphicsProgramming\obj\Debug\GraphicsProgramming.csprojAssemblyReference.cache
+D:\Documents\University\Anglia Ruskin\Graphics Programming\GraphicsProgramming\GraphicsProgramming\obj\Debug\GraphicsProgramming.Properties.Resources.resources
+D:\Documents\University\Anglia Ruskin\Graphics Programming\GraphicsProgramming\GraphicsProgramming\obj\Debug\GraphicsProgramming.csproj.GenerateResource.cache
+D:\Documents\University\Anglia Ruskin\Graphics Programming\GraphicsProgramming\GraphicsProgramming\obj\Debug\GraphicsProgramming.csproj.CoreCompileInputs.cache
+D:\Documents\University\Anglia Ruskin\Graphics Programming\GraphicsProgramming\GraphicsProgramming\bin\Debug\GraphicsProgramming.exe.config
+D:\Documents\University\Anglia Ruskin\Graphics Programming\GraphicsProgramming\GraphicsProgramming\bin\Debug\GraphicsProgramming.exe
+D:\Documents\University\Anglia Ruskin\Graphics Programming\GraphicsProgramming\GraphicsProgramming\bin\Debug\GraphicsProgramming.pdb
+D:\Documents\University\Anglia Ruskin\Graphics Programming\GraphicsProgramming\GraphicsProgramming\obj\Debug\GraphicsProgramming.exe
+D:\Documents\University\Anglia Ruskin\Graphics Programming\GraphicsProgramming\GraphicsProgramming\obj\Debug\GraphicsProgramming.pdb
